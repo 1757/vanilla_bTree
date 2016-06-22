@@ -7,11 +7,16 @@ Testing the tree and search experiments is done below in the __main__ programme 
 
 
 ######################-------------------EXPERIMENT Check----------------------------------------################################
-The tree structure is below -------------------------------------
-											Root
-					L 											R
-			None 		 LR 						RL 						RR		
-												None 	RLR 			None 	RRR	
+The tree structure is in the PNG file (just open the image for the intended tree structure, or else it's fairly easy to know which node is what). 
+
+for example, 
+
+Root = root node
+R = right node of root
+L = left node of root
+RR = right node of R
+RL = left node of R
+and so on
 
 ##############------------------------ In which ----------------------------
 (breadth first search code)
