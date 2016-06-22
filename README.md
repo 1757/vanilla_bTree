@@ -1,5 +1,5 @@
 # vanilla_bTree
-A simple bTree implementation and some experiment
+A simple python bTree implementation and some experiment
 This short piece of code is the implementation of a binary tree, containing 1 class Btree with 10 methods, including a bread-first-search traversal method
 
 Testing the tree and search experiments is done below in the __main__ programme (tree and experiment result is in this Readme)
